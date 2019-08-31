@@ -1,0 +1,43 @@
+.content {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.post-footer {
+    margin: 4rem auto 0;
+    max-width: 700px;
+}
+
+.author-box .author-profile-image {
+    height: 60px;
+    width: 60px;
+    margin-right: 20px;
+}
+
+.author-profile-image {
+    flex-shrink: 0;
+    margin: 0 0 15px 0;
+    width: 100px;
+    height: 100px;
+    box-shadow: rgba(255,255,255,0.1) 0 0 0 6px;
+    display: block;
+    background: #222;
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+.authors {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 -40px;
+}
+
+.author-box {
+    flex: 1 1 300px;
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 5px 20px;
+    margin: 0 20px 20px;
+    border: none;
+}
