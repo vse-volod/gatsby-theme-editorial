@@ -1,5 +1,5 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Theme Massively",
+    title: "Gatsby Theme Editorial",
   },
 }
