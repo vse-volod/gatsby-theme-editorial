@@ -1,5 +1,7 @@
 # Gatsby Theme Editoral
 
+[Demo of Gatsby Starter Blog with Editorial theme](https://editorial.gatsbytemplates.io/)
+
 Converted to Gatsby by [https://gatsbytemplates.io/](https://gatsbytemplates.io/?ref="github")
 
 Original theme by html5up https://html5up.net/
