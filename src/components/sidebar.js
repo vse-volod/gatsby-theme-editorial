@@ -8,7 +8,7 @@ import Copyright from './copyright';
 
 class Sidebar extends React.Component {
   // rewrite with hooks
-  state = { showMenu: false }
+  state = { showMenu: true }
 
   toggleMenu = () => {
     this.setState({ showMenu: !this.state.showMenu })
